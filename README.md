@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhoniddin" />
 </div> 
   
-<img src='https://activity-graph.herokuapp.com/graph?username=subhoniddin&theme=minimal' />
+<img src='https://activity-graph.herokuapp.com/graph?username=subhoniddin&theme=react-dark' />
 
 ## Social
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/subhoniddin-odinaev-5a9367211)
