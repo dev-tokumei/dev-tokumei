@@ -7,7 +7,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhoniddin&show_icons=true&theme=radical&hide_border=true" />
 </div> 
   
-<img src='https://activity-graph.herokuapp.com/graph?username=subhoniddin&theme=react-dark' />
 
 
 
